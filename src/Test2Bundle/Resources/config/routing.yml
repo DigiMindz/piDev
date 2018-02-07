@@ -1,0 +1,3 @@
+test2_homepage:
+    path:     /Int
+    defaults: { _controller: Test2Bundle:Default:index }
